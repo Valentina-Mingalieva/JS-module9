@@ -1,0 +1,29 @@
+{
+  "name": "JS-module9",
+  "version": "1.0.0",
+  "description": "Темы занятия\r Babel\r WebPack\r ECMAScript Modules",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon --inspect src/index.js",
+    "start:dev": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Valentina-Mingalieva/JS-module9.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  },
+  "bugs": {
+    "url": "https://github.com/Valentina-Mingalieva/JS-module9/issues"
+  },
+  "homepage": "https://github.com/Valentina-Mingalieva/JS-module9#readme"
+}
